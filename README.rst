@@ -19,10 +19,6 @@ Market calendars to use with pandas for trading applications.
    :target: http://pandas-market-calendars.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-Documentation
--------------
-http://pandas_market_calendars.readthedocs.io/en/latest/
-
 Overview
 --------
 The Pandas package is widely used in finance and specifically for time series analysis. It includes excellent
@@ -33,9 +29,6 @@ The pandas_market_calendars package looks to fill that role with the holiday, la
 for specific exchanges and OTC conventions. pandas_market_calendars also adds several functions to manipulate the
 market calendars and includes a date_range function to create a pandas DatetimeIndex including only the datetimes
 when the markets are open.
-
-This package is a fork of the Zipline package from Quantopian and extracts just the relevant parts. All credit for
-their excellent work to Quantopian.
 
 Installation
 ------------
